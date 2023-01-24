@@ -10,7 +10,7 @@ on:
       - ".github/workflows/main.yml"
 
   pull_request:
-    branches: ["master"]
+    branches: ["main"]
 
 permissions:
   contents: write
