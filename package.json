@@ -1,6 +1,7 @@
 {
   "name": "password-generator",
   "version": "0.1.0",
+  "homepage": "https://gh.ahmadullah.in/password-generator/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
